@@ -1,4 +1,6 @@
 DS-GS 1007 Assignment 2
 =======================
 
-Please create a pull request that will add your repository as a subdirectory that is your Net ID.
+Upload your assignment repository to your local fork.
+Make sure that your files are in a subdirectory that is your NetID.
+When you have done this, create a pull request to the owner of the original repository.
